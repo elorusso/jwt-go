@@ -1,3 +1,3 @@
-module github.com/elorusso/jwt-go/v3
+module github.com/elorusso/jwt-go
 
 go 1.12
